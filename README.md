@@ -1,4 +1,4 @@
-### Hi there I'm Patrik - aka [swehacker][website] 👋
+### Hi there I'm Patrik - [swehacker][website] 👋
 
 ### Connect with me:
 
@@ -9,8 +9,9 @@
 [<img align="left" alt="swehacker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
-### Languages and Tools:
+### My day to day languages and tools:
 
 #### Java
 
