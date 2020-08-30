@@ -1,5 +1,8 @@
 ### Hi there I'm Patrik - [swehacker][website] 👋
 
+I am a backend developer (mostly Java/Kotlin and NodeJS) but also welcome the opertunity to do some frontend work with React, React-Native and Java (Swing, JavaFX).
+I also use C for embedded stuff and different languages like PHP and Python when needed.
+
 ### Connect with me:
 
 [<img align="left" alt="swehacker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
