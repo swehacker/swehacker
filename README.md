@@ -4,13 +4,13 @@ I am a backend developer (mostly Java/Kotlin and NodeJS) but also welcome the op
 I also use C for embedded stuff and different languages like PHP and Python when needed.
 
 ### Connect with me:
-
+<div style="background: #FFFFFF">
 [<img align="left" alt="swehacker.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="swehacker | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="swehacker | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="swehacker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="swehacker | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+</div>
 <br />
 <br />
 
